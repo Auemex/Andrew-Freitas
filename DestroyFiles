@@ -12,7 +12,7 @@ public class DestroyByTime : MonoBehaviour
         Destroy(gameObject, lifetime);
     }
 }
-
+_________________________________________________________________________________________________________________________
 Contact
 
 using UnityEngine;
@@ -55,6 +55,7 @@ public class DestroyByContact : MonoBehaviour
         Destroy(gameObject);
     }
 }
+_____________________________________________________________________________________________________________________________
 
 Boundary
 
